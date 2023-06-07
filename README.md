@@ -5,8 +5,6 @@
 
 - Owner of [CloverCube](https://github.com/CloverCube)
 
-- Developer at [Valix](https://github.com/ValixNetwork)
-
 - How to reach me **wilsonalejandro83@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

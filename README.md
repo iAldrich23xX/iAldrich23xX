@@ -18,36 +18,7 @@ I’m also well-versed in Agile methodologies such as Scrum and Kanban, ensuring
 
 ### 🧰 Languages & Tools
 
-<p align="left">
-  <!-- Core Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring Boot" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" width="40" height="40" alt="FastAPI" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40" alt="React" />
-  <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" width="40" height="40" alt="WordPress" />
-  <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" width="40" height="40" alt="Jetbrains" />
-
-  <!-- Databases & Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" alt="Redis" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes" />
-
-  <!-- Messaging / Infra -->
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40" alt="RabbitMQ" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite" />
-
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" width="40" height="40" alt="Ubuntu" />
-  <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" width="40" height="40" alt="Debian" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,kotlin,c,cpp,cs,dotnet,docker,kubernetes,js,ts,linux,react,nextjs,express,laravel,graphql,nestjs,sqlite,postgresql,mysql,mongo,redis,bots,discord,nginx,cloudflare,vercel,git,github,nodejs,npm,maven,gradle,vscode,sublime,idea,webstorm,clion,phpstorm,pycharm,postman,ps,powershell,rabbitmq,vim,python,go,wordpress&perline=20)](https://skillicons.dev)
 
 ---
 

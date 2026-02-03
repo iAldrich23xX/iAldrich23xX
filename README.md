@@ -26,7 +26,7 @@ I’m also well-versed in Agile methodologies such as Scrum and Kanban, ensuring
 
 <p align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAldrich23xX&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="iAldrich23xX Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ialdrich23xx&langs_count=8&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20Notebook,Roff"/></a>
 </p>
 
 <p align="center">
